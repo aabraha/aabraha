@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @aabraha Assefa Abraha 
-- At the moment I am working on React, Nextjs for UI and aws lambda for backend with Java/Python
-- 👀 I’m interested in Java and Spring
+- working on React, Nextjs for UI and aws lambda for backend with Java/Python
+- 👀 I’m interested in Java and Spring framework
 - 🌱 reactive programming using project reactor
-- 💞️ I’m looking to collaborate on coding using Java
+- 💞️ I’m looking to collaborate on coding using Java, Python, JavaScript
 - 📫 How to reach me aseffamit@gmail.com
 
 <!---
