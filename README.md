@@ -1,9 +1,10 @@
-- 👋 Hi, I’m @aabraha Assefa Abraha 
-- working on React, Nextjs for UI and aws lambda for backend with Java/Python
-- 👀 I’m interested in Java and Spring framework
+- 👋 Hi there, I’m Assefa Abraha 
+- working on React, Nextjs for UI and backend with Java/Python
+- experieced in AWS cloud services
+- 👀 Interested in Java and Spring framework, spring Boot
 - 🌱 reactive programming using project reactor
-- 💞️ I’m looking to collaborate on coding using Java, Python, JavaScript
-- 📫 How to reach me aseffamit@gmail.com
+- 💞️ I’m looking to collaborate on coding using Java, Python, JavaScript/Typescript
+
 
 <!---
 aabraha/aabraha is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
