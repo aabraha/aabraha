@@ -1,7 +1,7 @@
 - 👋 Hi there, I’m Assefa Abraha 
 - working on React, Nextjs for UI and backend with Java/Python
 - experieced in AWS cloud services
-- 👀 Interested in Java and Spring framework, spring Boot
+- 👀 Interested in Java and Spring framework, spring Boot, and AI Agent Engineering
 - 🌱 reactive programming using project reactor
 - 💞️ I’m looking to collaborate on coding using Java, Python, JavaScript/Typescript
 
