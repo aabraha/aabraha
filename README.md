@@ -9,7 +9,8 @@ Senior Full Stack Software Engineer with over 10 years of experience building sc
 - **Backend:** Java (Spring Boot), Python, Node.js  
 - **Architecture:** Microservices, Event-Driven Systems (Kafka), REST APIs  
 - **Cloud & DevOps:** AWS, Docker, Kubernetes, Terraform, CI/CD  
-- **Databases:** PostgreSQL, MySQL, MongoDB, DynamoDB  
+- **Databases:** PostgreSQL, MySQL, MongoDB, DynamoDB
+-  **AI:** Agentic AI, OpenAI SDK, CrewAI, LangGraph, MCP  
 
 ---
 
