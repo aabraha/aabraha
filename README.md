@@ -5,8 +5,9 @@ Senior Full Stack Software Engineer with over 10 years of experience building sc
 ---
 
 ### 🚀 What I Work With
+
+- **Backend:** Java (Spring Boot), Python, Node.js
 - **Frontend:** React, Next.js, TypeScript, Angular  
-- **Backend:** Java (Spring Boot), Python, Node.js  
 - **Architecture:** Microservices, Event-Driven Systems (Kafka), REST APIs  
 - **Cloud & DevOps:** AWS, Docker, Kubernetes, Terraform, CI/CD  
 - **Databases:** PostgreSQL, MySQL, MongoDB, DynamoDB
